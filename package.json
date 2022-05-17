@@ -1,0 +1,18 @@
+{
+    "name": "@jabberwocky-db/tsconfig",
+    "version": "1.0.0",
+    "license": "MIT",
+    "sideEffects": false,
+    "main": "index.json",
+    "prettier": "@jabberwocky-db/prettier-config",
+    "files": [],
+    "dependencies": {
+        "@types/jest": "^27.5.0"
+    },
+    "peerDependencies": {
+        "typescript": "^4.6.0"
+    },
+    "devDependencies": {
+        "@jabberwocky-db/prettier-config": "^1.0.0"
+    }
+}

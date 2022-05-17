@@ -1,0 +1,14 @@
+{
+    "compilerOptions": {
+        "target": "esnext",
+        "module": "esnext",
+        "lib": ["esnext"],
+        "types": ["jest"],
+        "moduleResolution": "node",
+        "esModuleInterop": true,
+        "strict": true,
+        "noImplicitAny": true,
+        "declaration": true,
+        "emitDeclarationOnly": true
+    }
+}
